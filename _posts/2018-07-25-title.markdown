@@ -1,0 +1,12 @@
+---
+layout: post
+title: "title"
+date: 2018-07-25
+author: Nicotupe
+tags:
+  - 
+category: blog
+blog: true
+---
+
+Test from ipad
